@@ -11,7 +11,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #252839;
+  background: #212121;
 }
 ul{
   position: relative;
@@ -47,6 +47,3 @@ ul li a:hover::before{
   width: 100%;
   filter: drop-shadow(0 0 25px var(--clr));
 }
-
-
-
